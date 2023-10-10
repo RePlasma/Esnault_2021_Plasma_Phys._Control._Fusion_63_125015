@@ -1,2 +1,9 @@
-# Esnault_2021_Plasma_Phys._Control._Fusion_63_125015
-Electron-positron pair production in the collision of real photon beams with wide energy distributions
+# Electron-positron pair production in the collision of real photon beams with wide energy distributions
+
+Original authors of paper: L Esnault, E d'Humières, A Arefiev and X Ribeyre
+
+Citation: L Esnault et al 2021 Plasma Phys. Control. Fusion __63__ 125015
+
+Notebook by: Óscar Amaro (2022)
+
+Abstract: _The creation of an electron–positron pair in the collision of two real photons, namely the linear Breit–Wheeler process, has never been detected directly in the laboratory since its prediction in 1934 despite its fundamental importance in quantum electrodynamics and high energy astrophysics. In the last few years, several experimental setup have been proposed to observe this process in the laboratory, relying either on thermal radiation, Bremsstrahlung, linear or multiphoton inverse Compton scattering photons sources created by lasers or by the mean of a lepton collider coupled with lasers. In these propositions, the influence of the photons' energy distribution on the total number of produced pairs has been taken into account with an analytical model only for two of these cases. We hereafter develop a general and original, semi-analytical model to estimate the influence of the photons energy distribution on the total number of pairs produced by the collision of two such photon beams, and give optimum energy parameters for some of the proposed experimental configurations. Our results shows that the production of optimum Bremsstrahlung and linear inverse Compton sources are, only from energy distribution considerations, already reachable in today's facilities. Despite its less interesting energy distribution features for the linear Breit–Wheeler pair production, the photon sources generated via multiphoton inverse Compton scattering by the propagation of a laser in a micro-channel can also be interesting, thank to the high collision luminosity that could eventually be reached by such configurations. These results then gives important insights for the design of experiments intended to detect linear Breit–Wheeler produced positrons in the laboratory for the first time._
