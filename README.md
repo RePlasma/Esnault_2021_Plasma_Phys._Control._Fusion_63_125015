@@ -2,6 +2,8 @@
 
 Original authors of paper: L Esnault, E d'Humières, A Arefiev and X Ribeyre
 
+Link to paper: https://iopscience.iop.org/article/10.1088/1361-6587/ac2e3e
+
 Citation: L Esnault et al 2021 Plasma Phys. Control. Fusion __63__ 125015
 
 Notebook by: [Óscar Amaro](https://github.com/OsAmaro) (2022)
